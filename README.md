@@ -1,4 +1,4 @@
-## 🙌 About  ME
+## 🙌 About  ME를 소개합니다.
 
 ![image](https://user-images.githubusercontent.com/85295433/183232685-a59fefe3-1346-4191-a81c-86fb488f36f3.png)
 
