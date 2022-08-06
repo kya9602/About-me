@@ -3,8 +3,11 @@
 ![image](https://user-images.githubusercontent.com/85295433/183232386-adad471f-d772-4439-8d92-7099cd4e7bdf.png)
 
 ## ❓ About  ME 가 뭐예요?   
+
 -개발자의 성장기를 시각화 하여 담아내는 포트폴리오 웹 사이트입니다.
+
 -거쳐온 프로젝트들을 통해 발전해 나가는 우리의 모습을 한 눈에 볼 수 있습니다
+
 -edit 버튼을 통해
 
 1. root 페이지 구현 (완)
