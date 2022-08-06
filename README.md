@@ -75,7 +75,12 @@
 - 로그인이 안되는문제 : .decode~ 이부분 삭제해서 해결
 
 
-![image](https://user-images.githubusercontent.com/85295433/183233382-373f77b6-19ba-47ed-a2f7-fd7c776ae03e.png)
+<details><summary> P.S </summary>
 
-###### 이노베이션캠프(강원) 첫주 5조 
-###### Team Innovation Camp(Gangwon). First week group 5
+ ![image](https://user-images.githubusercontent.com/85295433/183233382-373f77b6-19ba-47ed-a2f7-fd7c776ae03e.png) 
+ 밤새가며 프로젝트를 제작해보니 뜻 깊었습니다.
+ 
+ - 이노베이션캠프(강원) 첫주 5조 
+ - Team Innovation Camp(Gangwon). First week group 5 
+
+</details>
