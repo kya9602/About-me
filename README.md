@@ -36,31 +36,40 @@
 - Nav 버튼 구현완료 </s>
 
 
-## 사용된 기술.
+## 🚗 사용된 기술.
+- python , js , html , css
+- pymongo , flask , jinja2 , pyJWT
 
 
-## Trouble Shooting
-1-1. Career Section image 가운데 정렬안됨
+## 🙋‍♀️ Trouble Shooting
+1. -1 Career Section image 가운데 정렬안됨
 - width height position margin 등등 온갖 것을 손대보고
 - 마무리는 margin : auto auto; 였음
 
-1-2. image 테두리 둥글게 나오면서 이미지가 조금 짤림
+
+1. -2 image 테두리 둥글게 나오면서 이미지가 조금 짤림
 - 숨어있던 rounded-circle 찾아서 해결
+
 
 2. 온클릭 이벤트 실행안됨
 - js 링크 추가해서 해결
 
+
 3. modal 창 is-active 문제
 - bulma css 긁어온것이라 bulma script 추가해서 해결
+
 
 4. font 겹침 문제
 - core theme css 위에 bulma css를 추가해서 해결 (순서배치문제) 
 
+
 5. 회원정보 수정시 모두가 수정버튼을 볼 수 있었던 문제.
 - JWT 토큰을 이용해 서버에 유저 정보가 있다면 클라이언트 ID를 저장하고 jinja2를 이용해 정보를 넘겨주어 이슈 해결
 
+
 6. 파일 추합을 하는경우 변수명이 달랐고, 팀 개개인의 개발 환경이 다른 문제
 - git 을 앞으로는 !꼭! 제일먼저 설정하자
+
 
 7. token = jwt.encode(payload, SECRET_KEY, algorithm='HS256').decode('utf-8')
 - 로그인이 안되는문제 : .decode~ 이부분 삭제해서 해결
