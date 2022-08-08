@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/85295433/183232685-a59fefe3-1346-4191-a81c-86fb488f36f3.png)
 
+![image](https://user-images.githubusercontent.com/85295433/183331929-05e09820-4baa-4d21-b62f-6bf5d957b3d6.png)
+
 ## ❓ About  ME 가 뭐예요?   
 - 개발자의 성장기를 시각화 하여 담아내는 포트폴리오 웹 사이트입니다.
 - 거쳐온 프로젝트, 커리어들을 통해 발전해 나가는 우리의 모습을 한 눈에 볼 수 있습니다.
