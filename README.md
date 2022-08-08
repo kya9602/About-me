@@ -1,8 +1,6 @@
 ## 🙌 About  ME를 소개합니다.
 
-![image](https://user-images.githubusercontent.com/85295433/183232685-a59fefe3-1346-4191-a81c-86fb488f36f3.png)
-
-![image](https://user-images.githubusercontent.com/85295433/183331929-05e09820-4baa-4d21-b62f-6bf5d957b3d6.png)
+![image](https://user-images.githubusercontent.com/85295433/183332086-09345165-70ee-45ab-b759-fb4428e4a926.png)
 
 ## ❓ About  ME 가 뭐예요?   
 - 개발자의 성장기를 시각화 하여 담아내는 포트폴리오 웹 사이트입니다.
