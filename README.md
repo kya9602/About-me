@@ -55,8 +55,8 @@
 - js 링크 추가해서 해결
 
 
-3. modal 창 is-active 문제
-- bulma css 긁어온것이라 bulma script 추가해서 해결
+3. modal 창 is-active 되지 않는 문제
+- bulma css bulma script 추가해서 해결
 
 
 4. font 겹침 문제
